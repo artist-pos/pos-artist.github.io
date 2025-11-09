@@ -9,14 +9,14 @@ const posters = [
   {
     id: 1,
     title: "The Truth Behind Woolworst",
-    caption: "Documenting the alleged systemic failure across employee safety, contract integrity, racial equity, and the protection of misconduct. **3.1k+ LinkedIn impressions in 3 weeks.**",
+        caption: "Documenting the alleged systemic failure across employee safety, contract integrity, racial equity, and the protection of misconduct. **Reached 3,000+ industry professionals on LinkedIn.**",
     imageAlt: "Poster documenting systemic failures at Woolworst",
     image: poster1
   },
   {
     id: 2,
     title: "The Fresh Food People... break their bodies",
-      caption: "Tracking the human cost of understaffing; examining claims of buried injury reports and long-term physical compromise. **65k+ on X.com.**",
+      caption: "Tracking the human cost of understaffing; examining claims of buried injury reports and long-term physical compromise. **Surpassed 100,000 views across platforms**",
     imageAlt: "Poster showing the human cost of understaffing",
     image: poster2
   },
